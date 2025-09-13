@@ -15,6 +15,7 @@ A Telegram bot that enables business accounts to transfer stars directly to the 
 - Bot Connection - Must connect and authorize the bot through Business account settings
 
 **For Bot Deployment:**
+- Node Telegram Bot Api - the library with which the bot was made
 - Telegram Bot Token - Obtain from @BotFather
 
 *_The repository is created only for familiarization with the capabilities of telegram API_*  
