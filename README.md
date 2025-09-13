@@ -21,5 +21,3 @@ A Telegram bot that enables business accounts to transfer stars directly to the 
 *_At the time of the repository creation, Telegram introduced restrictions for bots connected to a business account_*    
 
 **_This functionality was added only to demonstrate skills_**
-
-<u>This functionality was added only to demonstrate skills</u>
