@@ -18,6 +18,6 @@ A Telegram bot that enables business accounts to transfer stars directly to the 
 - Telegram Bot Token - Obtain from @BotFather
 
 *_The repository is created only for familiarization with the capabilities of telegram API_*  
-*_At the time of the repository creation, Telegram introduced restrictions for bots connected to a business account_*
+*_At the time of the repository creation, Telegram introduced restrictions for bots connected to a business account_*    
 **This functionality was added only to demonstrate skills**
 
